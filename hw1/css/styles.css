@@ -1,0 +1,30 @@
+body{
+  font-family: serif;
+}
+header {
+  background: #bbb;
+}
+h1 {
+  color: #fff;
+  text-align: center;
+  text-transform: uppercase;
+  font-size: 250%;
+}
+h2 {
+  color: #10449c;
+  font-size: 200%;
+  text-transform: uppercase;
+}
+a {
+  font-weight: bold;
+  font-size: 120%;
+  color: black;
+  background: #ddd;
+}
+section {
+  font-size: 130%;
+  background: #777;
+}
+img {
+  display: none;
+}
